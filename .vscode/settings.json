@@ -1,0 +1,13 @@
+{
+    "editor.fontFamily": "'Hermit', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontSize": 16,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "bounded",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1,
+    "cSpell.words": [
+        "PRESENTVSYNC"
+    ]
+}
